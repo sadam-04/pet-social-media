@@ -1,5 +1,5 @@
 # Pet social media
-Social media platform focused on pets and domesticated animals
+Social media platform focused on pets
 
 # Setup
 coming soon
